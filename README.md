@@ -13,6 +13,6 @@ The **CRUD Application** is a basic implementation of the Create, Read, Update, 
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (or specify any frontend frameworks/libraries used)
-- **Backend**: (Specify backend technology, e.g., Node.js, Express, etc., if applicable)
-- **Database**: (Specify database used, e.g., MongoDB, MySQL, etc., if applicable)
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
